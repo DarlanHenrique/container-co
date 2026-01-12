@@ -15,10 +15,12 @@
 <!--te-->
 
 ### Desenvolvedores:
-- Anna Letícia Franco Monteiro - 202065106A 
-- Davi Esteves dos Santos - 202065504B
-- Gabriel do Carmo Silva - 202065030A
-- Pedro Campos Lima - 202065521B
+- Abner Franco Hermsdolf - 202365149AC
+- Anna Letícia Franco Monteiro - 202065106B
+- Bruno dos Santos Silva - 201935031
+- Darlan Henrique da Costa Silva - 202176038
+- João Antônio Fonseca e Almeida - 201935010
+
 
 ### Professores:
 - Fabricio Mendonça
